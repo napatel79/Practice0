@@ -1,4 +1,4 @@
-#Practice 0
+i#Practice 0
 
 Welcome to CS445/545. In this class we will be using a variety of
 tools that will require some initial configuration. 
